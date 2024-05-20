@@ -1,5 +1,5 @@
 import van from "vanjs-core";
-import logo from "./futc_filled.svg";
+import logo from "./favicon.png";
 import {
   updateCanvas,
   handleFiles,
